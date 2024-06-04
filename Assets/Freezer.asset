@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 97d93db80b753d841a3a356e0e1dae22, type: 3}
+  m_Name: Freezer
+  m_EditorClassIdentifier: 
+  personajeJugable: {fileID: 8840211989615470229, guid: b43265745f22ddc4a8daaefaf3f56b5b, type: 3}
+  imagen: {fileID: 21300000, guid: e91dbdf3e27f1ea4b9a051efd08301b1, type: 3}
+  nombre: Freezer

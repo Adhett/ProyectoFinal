@@ -1,0 +1,690 @@
+fileFormatVersion: 2
+guid: 040c17183b45f4b4b89dd6099600b949
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sausage-Photoroom.png-Photoroom_0
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 820
+        width: 168
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f04e3cd96508a049af2592d873b7f3c
+      internalID: 1675279864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sausage-Photoroom.png-Photoroom_1
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 892
+        width: 142
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7a5637a1c7451c4385bb25345b8fe21
+      internalID: -1522739184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sausage-Photoroom.png-Photoroom_2
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 859
+        width: 108
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18552ea14f62726459a682c72df4eac9
+      internalID: -192500702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sausage-Photoroom.png-Photoroom_3
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 879
+        width: 414
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee173d340c4dabf4abc3806a48441970
+      internalID: -1387713392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sausage-Photoroom.png-Photoroom_4
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 754
+        width: 253
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b200659533f0fd245b2b6eb824fb1980
+      internalID: 1367272775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sausage-Photoroom.png-Photoroom_5
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 832
+        width: 45
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f249b566ad4698348a71615fb23c29c6
+      internalID: 1324190658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sausage-Photoroom.png-Photoroom_6
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 766
+        width: 414
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 491f9ae9f1aa81749816f12e27834a56
+      internalID: -73627476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sausage-Photoroom.png-Photoroom_7
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 758
+        width: 146
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9abf844b2eabaee448b64d4a0fed8f4a
+      internalID: -1010107341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sausage-Photoroom.png-Photoroom_8
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 627
+        width: 462
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 825765407424a7048b4af1ee892f9fd0
+      internalID: -378755865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sausage-Photoroom.png-Photoroom_9
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 640
+        width: 424
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee8d287446c8a234d9c278dc92d5a4c9
+      internalID: -543784254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sausage-Photoroom.png-Photoroom_10
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 502
+        width: 468
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4758b7b63cf1f243a4ec97a8bd01df5
+      internalID: -137783773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sausage-Photoroom.png-Photoroom_11
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 534
+        width: 416
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22f1e040cc589104998bf674fb1830ac
+      internalID: -2059262460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sausage-Photoroom.png-Photoroom_12
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 364
+        width: 228
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63fa43498f48d7146a873d9771cbbd6b
+      internalID: 1031260191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sausage-Photoroom.png-Photoroom_13
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 408
+        width: 84
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6180b81d933507247947278b0672fc07
+      internalID: -959694436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sausage-Photoroom.png-Photoroom_14
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 431
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df2b85298f6989345a9985699a3ece75
+      internalID: -1355033663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sausage-Photoroom.png-Photoroom_15
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 419
+        width: 441
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 379ab1c227d7efa4b9adaee90281b918
+      internalID: 953866386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sausage-Photoroom.png-Photoroom_16
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 369
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44cb7055256aa14498f5ad22cbb6d3e9
+      internalID: -2034688505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sausage-Photoroom.png-Photoroom_17
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 354
+        width: 53
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8079691379874da4b8a105ce9d61a6f7
+      internalID: -900558271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sausage-Photoroom.png-Photoroom_18
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 290
+        width: 462
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2c124f4fb4e9a84ebd85358ada75c7e
+      internalID: 857993036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sausage-Photoroom.png-Photoroom_19
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 258
+        width: 451
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 751815f8bc34a3345bc2f0f3f8cf2544
+      internalID: -1995221730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sausage-Photoroom.png-Photoroom_20
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 173
+        width: 449
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f0fa272bdf60d54190acbe1230185bb
+      internalID: -2035077861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sausage-Photoroom.png-Photoroom_21
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 166
+        width: 429
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fe29779d0225584a9a4b7dc9d41827f
+      internalID: -1452719949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sausage-Photoroom.png-Photoroom_22
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 52
+        width: 436
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec1decd5746aed546957f3829af229ba
+      internalID: 1864409670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sausage-Photoroom.png-Photoroom_23
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 48
+        width: 411
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d496288ad0ab77649b53f7c3c672c3b5
+      internalID: -1899729115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sausage-Photoroom.png-Photoroom_24
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 263
+        width: 508
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3089ef4604b7324495916cec7ce3f0a
+      internalID: -2095417727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      sausage-Photoroom.png-Photoroom_0: 1675279864
+      sausage-Photoroom.png-Photoroom_1: -1522739184
+      sausage-Photoroom.png-Photoroom_10: -137783773
+      sausage-Photoroom.png-Photoroom_11: -2059262460
+      sausage-Photoroom.png-Photoroom_12: 1031260191
+      sausage-Photoroom.png-Photoroom_13: -959694436
+      sausage-Photoroom.png-Photoroom_14: -1355033663
+      sausage-Photoroom.png-Photoroom_15: 953866386
+      sausage-Photoroom.png-Photoroom_16: -2034688505
+      sausage-Photoroom.png-Photoroom_17: -900558271
+      sausage-Photoroom.png-Photoroom_18: 857993036
+      sausage-Photoroom.png-Photoroom_19: -1995221730
+      sausage-Photoroom.png-Photoroom_2: -192500702
+      sausage-Photoroom.png-Photoroom_20: -2035077861
+      sausage-Photoroom.png-Photoroom_21: -1452719949
+      sausage-Photoroom.png-Photoroom_22: 1864409670
+      sausage-Photoroom.png-Photoroom_23: -1899729115
+      sausage-Photoroom.png-Photoroom_24: -2095417727
+      sausage-Photoroom.png-Photoroom_3: -1387713392
+      sausage-Photoroom.png-Photoroom_4: 1367272775
+      sausage-Photoroom.png-Photoroom_5: 1324190658
+      sausage-Photoroom.png-Photoroom_6: -73627476
+      sausage-Photoroom.png-Photoroom_7: -1010107341
+      sausage-Photoroom.png-Photoroom_8: -378755865
+      sausage-Photoroom.png-Photoroom_9: -543784254
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
